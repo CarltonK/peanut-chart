@@ -1,0 +1,9 @@
+ apiVersion: v2
+
+ name: peanut
+
+ description: A Helm chart for peanuts
+
+ type: application
+
+ version: 0.1.0
